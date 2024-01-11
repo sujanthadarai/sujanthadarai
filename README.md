@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Er.Sujan Thadarai</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
+<img src="https://rishavanand.github.io/static/images/greetings.gif">
 
 - 📫 How to reach me **sujanthadarai710@gmail.com**
 
