@@ -19,5 +19,6 @@ I do web Development. I really enjoy learning languages and frameworks like pyth
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sujanthadarai&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
